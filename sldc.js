@@ -20,15 +20,15 @@
     Create a variable for each of the above steps of the Software Development Lifecycle and set the values of each variable to a definition of the step.
     The first one is done for you. 
 */
-const planning = "This is the first step, in which the end goal of the software is determined and defined. Developers typically will see what systems are already in place, and determine what features will need to be added." 
+let planning = "This is the first step, in which the end goal of the software is determined and defined. Developers typically will see what systems are already in place, and determine what features will need to be added." 
 
-const analysisOfRequirements = "Second step of the process in which business requirements are gathered and examined. Requirement documentation is created.  Business stakeholder expectations are defined, user expectations are defined. "
+let analysisOfRequirements = "Second step of the process in which business requirements are gathered and examined. Requirement documentation is created.  Business stakeholder expectations are defined, user expectations are defined. "
 
-const design = "In this third step, design of the software and system is created based on each of the requirements assessed in the second step. A Design document is created to be used in the next step of Implementation. "
+let design = "In this third step, design of the software and system is created based on each of the requirements assessed in the second step. A Design document is created to be used in the next step of Implementation. "
 
-const implementation = "In this 4th step, developers code the software according to the specifications of the design and requirements.  "
+let implementation = "In this 4th step, developers code the software according to the specifications of the design and requirements.  "
 
-const testingAndIntegration = "Testing of the system occurs to find and fix any bugs, issues, and verify that software meets the requirements determined in earlier steps."
+let testingAndIntegration = "Testing of the system occurs to find and fix any bugs, issues, and verify that software meets the requirements determined in earlier steps."
 
-const maintain = "This step occurs after software is in operation. This is where we may expect to see patches made to the software as new requirements are implemented, correct any bug issues, and fix any issues as software is in use by users. "
+let maintain = "This step occurs after software is in operation. This is where we may expect to see patches made to the software as new requirements are implemented, correct any bug issues, and fix any issues as software is in use by users. "
 
