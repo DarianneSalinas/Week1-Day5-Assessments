@@ -32,4 +32,3 @@ const testingAndIntegration = "Testing of the system occurs to find and fix any 
 
 const maintain = "This step occurs after software is in operation. This is where we may expect to see patches made to the software as new requirements are implemented, correct any bug issues, and fix any issues as software is in use by users. "
 
-console.log(maintain);
